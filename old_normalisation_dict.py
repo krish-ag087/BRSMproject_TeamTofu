@@ -11,7 +11,7 @@ NORM_DICT = {
     # ── ANIMALS ─────────────────────────────────────────────
 
     # English → Devanagari
-    "tiger":        "बाघ",
+    "tiger":        "टाइगर",
     "lion":         "शेर",
     "cat":          "बिल्ली",
     "dog":          "कुत्ता",
@@ -54,7 +54,7 @@ NORM_DICT = {
     "gorilla":      "गोरिल्ला",
     "ant":          "चींटी",
     "jackal":       "गीदड़",
-    "anaconda":     "एनाकोंडा",
+    "anaconda":     "अजगर",
     "python":       "अजगर",
     "penguin":      "पेंगुइन",
     "puma":         "प्यूमा",
@@ -152,7 +152,7 @@ NORM_DICT = {
     "maatha":       "माथा",
     "baahu":        "बाहु",
     "chamdi":       "चमड़ी",
-    "nakh":         "नाक",
+    "nakh":         "नाख़ून",
     "khopdi":       "खोपड़ी",
     "pait":         "पेट",
     "fefde":        "फेफड़े",
@@ -185,7 +185,7 @@ NORM_DICT = {
     "calf":         "पिंडली",
     "abdomen":      "पेट",
     "embow":        "कोहनी",    # typo for elbow
-    "bicep":        "डोले",
+    "bicep":        "बाइसेप",
     "tricep":       "ट्राइसेप",
 
     # ── COLOURS ─────────────────────────────────────────────
@@ -222,7 +222,7 @@ NORM_DICT = {
     "royal blue":   "रॉयल ब्लू",
     "teal":         "टील",
     "cream":        "क्रीम",
-    "biege":        "मटमैला",
+    "biege":        "बेज",
 
     # Transliterations → Devanagari
     "peela":        "पीला",
@@ -248,7 +248,7 @@ NORM_DICT = {
     "gulabi":       "गुलाबी",
     "naaringe":     "नारंगी",
     "bhuura":       "भूरा",
-    "hera":         "हरा",     
+    "hera":         "हीरा",     # likely used as shimmer/colour
 
     # ── FOODS ───────────────────────────────────────────────
 
@@ -358,7 +358,7 @@ NORM_DICT = {
     "macroni":      "पास्ता",
     "coffe":        "कॉफ़ी",
     "suar (pork)":  "सूअर",
-    "beef (buffalo)": "गोमांस",
+    "beef (buffalo)": "भैंस",
     "mix veg":      "सब्ज़ी",
     "crispy veg":   "सब्ज़ी",
     "fried rice":   "चावल",
