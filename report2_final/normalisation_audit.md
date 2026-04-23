@@ -1,0 +1,357 @@
+# Normalisation Dictionary Audit
+
+**Total entries:** 349  
+**Mapped to Devanagari:** 340  
+**Dropped as noise:** 9  
+
+| Original (Roman) | Normalised (Devanagari) | Domains |
+|---|---|---|
+| `aakhn` | आँख | body-parts |
+| `aalu` | आलू | foods |
+| `aanhkein` | आँख | body-parts |
+| `aankh` | आँख | body-parts |
+| `aata` | आटा | foods |
+| `abdomen` | पेट | body-parts |
+| `aloo` | आलू | foods |
+| `anaar` | अनार | foods |
+| `anaconda` | एनाकोंडा | animals |
+| `ande` | अंडे | foods |
+| `ant` | चींटी | animals |
+| `anteater` | चींटीखोर | animals |
+| `apple` | सेब | foods |
+| `arhar` | अरहर | foods |
+| `atta` | आटा | foods |
+| `azure` | आसमानी | colours |
+| `baag` | बाघ | animals |
+| `baagh` | बाघ | animals |
+| `baahu` | बाहु | body-parts |
+| `baal` | बाल | body-parts |
+| `baby corn` | मक्का | foods |
+| `bagh` | बाघ | animals |
+| `baigan` | बैंगन | foods |
+| `bail` | बैल | animals |
+| `baingan` | बैंगन | foods |
+| `bakra` | बकरा | animals |
+| `bakri` | बकरी | animals |
+| `banana` | केला | foods |
+| `bandar` | बंदर | animals |
+| `batak` | बत्तख | animals |
+| `bataka` | आलू | foods |
+| `bear` | भालू | animals |
+| `beef (buffalo)` | गोमांस | foods |
+| `bhaaloo` | भालू | animals |
+| `bhaalu` | भालू | animals |
+| `bhagwa` | भगवा | colours |
+| `bhais` | भैंस | animals |
+| `bhallu` | भालू | animals |
+| `bhalu` | भालू | animals |
+| `bhed` | भेड़ | animals |
+| `bhediya` | भेड़िया | animals |
+| `bhes` | भैंस | animals |
+| `bhindi` | भिंडी | foods |
+| `bhoora` | भूरा | colours |
+| `bhukh` | DROPPED (noise word) | foods |
+| `bhuura` | भूरा | colours |
+| `bicep` | डोले | body-parts |
+| `biege` | मटमैला | colours |
+| `billi` | बिल्ली | animals |
+| `billi'` | बिल्ली | animals |
+| `black` | काला | colours |
+| `blue` | नीला | colours |
+| `bread` | ब्रेड | foods |
+| `brinjal` | बैंगन | foods |
+| `brown` | भूरा | colours |
+| `buffalo` | भैंस | animals |
+| `buffaloe` | भैंस | animals |
+| `bufflow` | भैंस | animals |
+| `burger` | बर्गर | foods |
+| `cabbage` | पत्तागोभी | foods |
+| `cake` | केक | foods |
+| `calf` | पिंडली | body-parts |
+| `camel` | ऊँट | animals |
+| `carrot` | गाजर | foods |
+| `cat` | बिल्ली | animals |
+| `cauliflower` | फूलगोभी | foods |
+| `chaat` | चाट | foods |
+| `chaati` | छाती | body-parts |
+| `chakli` | चकली | foods |
+| `chamdi` | चमड़ी | body-parts |
+| `chana` | चना | foods |
+| `chapati` | चपाती | foods |
+| `chatpata` | DROPPED (noise word) | foods |
+| `chaval` | चावल | foods |
+| `chawal` | चावल | foods |
+| `cheenti` | चींटी | animals |
+| `cheeta` | चीता | animals |
+| `cheetah` | चीता | animals |
+| `chest` | छाती | body-parts |
+| `chicken` | मुर्गा | animals, foods |
+| `chin` | ठुड्डी | body-parts |
+| `chips` | चिप्स | foods |
+| `chocolate` | चॉकलेट | foods |
+| `chole` | छोले | foods |
+| `chole bhautre` | छोले | foods |
+| `chuha` | चूहा | animals |
+| `chuuha` | चूहा | animals |
+| `coe` | गाय | animals |
+| `coffe` | कॉफ़ी | foods |
+| `cold drinks` | शीतल पेय | foods |
+| `corn` | मक्का | foods |
+| `cow` | गाय | animals |
+| `crcocdile` | मगरमच्छ | animals |
+| `cream` | क्रीम | colours |
+| `crispy veg` | सब्ज़ी | foods |
+| `crow` | कौआ | animals |
+| `cucumber` | खीरा | foods |
+| `curd` | दही | foods |
+| `cyan` | सियान | colours |
+| `daal` | दाल | foods |
+| `daant` | दाँत | body-parts |
+| `daat` | दाँत | body-parts |
+| `dahi` | दही | foods |
+| `dairy` | DROPPED (noise word) | foods |
+| `dal` | दाल | foods |
+| `dawaaiya` | DROPPED (noise word) | foods |
+| `deer` | हिरण | animals |
+| `dhudh` | दूध | foods |
+| `dil` | दिल | body-parts |
+| `dimag` | दिमाग | body-parts |
+| `dog` | कुत्ता | animals |
+| `dolhin` | डॉल्फिन | animals |
+| `dolphin` | डॉल्फिन | animals |
+| `donkey` | गधा | animals |
+| `doodh` | दूध | foods |
+| `dooth` | दूध | foods |
+| `dosa` | डोसा | foods |
+| `duck` | बत्तख | animals |
+| `eagle` | बाज़ | animals |
+| `elephant` | हाथी | animals |
+| `embow` | कोहनी | body-parts |
+| `fal` | फल | foods |
+| `fefde` | फेफड़े | body-parts |
+| `ferozi` | फ़िरोज़ी | colours |
+| `fox` | लोमड़ी | animals |
+| `fried rice` | चावल | foods |
+| `fruits` | फल | foods |
+| `gaai` | गाय | animals |
+| `gaal` | गाल | body-parts |
+| `gaay` | गाय | animals |
+| `gadha` | गधा | animals |
+| `gajar` | गाजर | foods |
+| `gala` | गला | body-parts |
+| `gardan` | गर्दन | body-parts |
+| `garlic bread` | ब्रेड | foods |
+| `gayan` | गयाल | animals |
+| `geedad` | गीदड़ | animals |
+| `gehun` | गेहूँ | foods |
+| `gerua` | गेरुआ | colours |
+| `ghee` | घी | foods |
+| `ghoda` | घोड़ा | animals |
+| `ghutna` | घुटना | body-parts |
+| `giraffe` | जिराफ | animals |
+| `girrafe` | जिराफ | animals |
+| `goat` | बकरी | animals |
+| `gobi` | गोभी | foods |
+| `golden` | सुनहरा | colours |
+| `gorilla` | गोरिल्ला | animals |
+| `grapes` | अंगूर | foods |
+| `gray` | धूसर | colours |
+| `green` | हरा | colours |
+| `grey` | धूसर | colours |
+| `gulaabi` | गुलाबी | colours |
+| `gulabi` | गुलाबी | colours |
+| `gurde` | गुर्दे | body-parts |
+| `haath` | हाथ | body-parts |
+| `haathi` | हाथी | animals |
+| `hadiyan` | हड्डियाँ | body-parts |
+| `halwa` | हलवा | foods |
+| `hands` | हाथ | body-parts |
+| `hara` | हरा | colours |
+| `hath` | हाथ | body-parts |
+| `hathi` | हाथी | animals |
+| `head` | सिर | body-parts |
+| `hen` | मुर्गी | animals |
+| `hera` | हरा | colours |
+| `hiran` | हिरण | animals |
+| `horse` | घोड़ा | animals |
+| `hridai` | हृदय | body-parts |
+| `hyena` | लकड़बग्घा | animals |
+| `idli` | इडली | foods |
+| `indigo` | इंडिगो | colours |
+| `jackal` | गीदड़ | animals |
+| `jeeb` | जीभ | body-parts |
+| `jeebh` | जीभ | body-parts |
+| `kaala` | काला | colours |
+| `kaan` | कान | body-parts |
+| `kaansya` | काँस्य | colours |
+| `kabootar` | कबूतर | animals |
+| `kacchhuaa` | कछुआ | animals |
+| `kachori` | कचौरी | foods |
+| `kaddu` | कद्दू | foods |
+| `karela` | करेला | foods |
+| `khargosh` | खरगोश | animals |
+| `khicdi` | खिचड़ी | foods |
+| `khoon` | खून | body-parts |
+| `khopdi` | खोपड़ी | body-parts |
+| `knee` | घुटना | body-parts |
+| `kohni` | कोहनी | body-parts |
+| `kutta` | कुत्ता | animals |
+| `laal` | लाल | colours |
+| `ladoon cake` | लड्डू | foods |
+| `ladyfinger` | भिंडी | foods |
+| `lal` | लाल | colours |
+| `langoor` | लंगूर | animals |
+| `lassi` | लस्सी | foods |
+| `lauki` | लौकी | foods |
+| `lays` | लेज़ | foods |
+| `leapord` | तेंदुआ | animals |
+| `leg` | टाँग | body-parts |
+| `leopard` | तेंदुआ | animals |
+| `lion` | शेर | animals |
+| `lomdi` | लोमड़ी | animals |
+| `maanspeshiya` | माँसपेशियाँ | body-parts |
+| `maatha` | माथा | body-parts |
+| `macchi` | मछली | foods |
+| `machli` | मछली | animals, foods |
+| `macroni` | पास्ता | foods |
+| `magarmacch` | मगरमच्छ | animals |
+| `magenta` | मैजेंटा | colours |
+| `maggi` | मैगी | foods |
+| `mango` | आम | foods |
+| `maroon` | मैरून | colours |
+| `masoor` | मसूर | foods |
+| `matar` | मटर | foods |
+| `mausambi` | मौसंबी | foods |
+| `meetha` | DROPPED (noise word) | foods |
+| `mice` | चूहा | animals |
+| `milk` | दूध | foods |
+| `mirchi` | मिर्ची | foods |
+| `mix veg` | सब्ज़ी | foods |
+| `monkey` | बंदर | animals |
+| `moong` | मूँग | foods |
+| `moong daal` | मूँग दाल | foods |
+| `moor` | मोर | animals |
+| `mor` | मोर | animals |
+| `mouse` | चूहा | animals |
+| `mu` | मुँह | body-parts |
+| `muh` | मुँह | body-parts |
+| `murga` | मुर्गा | animals, foods |
+| `murgi` | मुर्गी | animals |
+| `mutton` | मटन | foods |
+| `naak` | नाक | body-parts |
+| `naarangi` | नारंगी | colours |
+| `naaringe` | नारंगी | colours |
+| `nakh` | नाक | body-parts |
+| `navy` | नेवी | colours |
+| `navy blue` | नेवी | colours |
+| `neela` | नीला | colours |
+| `neon green` | हरा | colours |
+| `noodles` | नूडल्स | foods |
+| `nose` | नाक | body-parts |
+| `oil` | तेल | foods |
+| `olive green` | जैतूनी | colours |
+| `onion` | प्याज | foods |
+| `oont` | ऊँट | animals |
+| `orange` | नारंगी | colours, foods |
+| `owl` | उल्लू | animals |
+| `ox` | बैल | animals |
+| `paani` | पानी | foods |
+| `pair` | पैर | body-parts |
+| `pait` | पेट | body-parts |
+| `pakshi` | पक्षी | animals |
+| `palak` | पालक | foods |
+| `palm` | हथेली | body-parts |
+| `paneer` | पनीर | foods |
+| `paneer sizzler` | पनीर | foods |
+| `pani puri` | पानी पूरी | foods |
+| `paratha` | पराठा | foods |
+| `parrot` | तोता | animals |
+| `pasta` | पास्ता | foods |
+| `pastry` | पेस्ट्री | foods |
+| `peacock` | मोर | animals |
+| `peas` | मटर | foods |
+| `peela` | पीला | colours |
+| `peeth` | पीठ | body-parts |
+| `peigien` | कबूतर | animals |
+| `penguin` | पेंगुइन | animals |
+| `pet` | पेट | body-parts |
+| `petha` | पेठा | foods |
+| `pig` | सूअर | animals |
+| `pink` | गुलाबी | colours |
+| `pizza` | पिज्जा | foods |
+| `potatoes` | आलू | foods |
+| `potatop` | आलू | foods |
+| `pulse` | दाल | foods |
+| `pulses` | दाल | foods |
+| `puma` | प्यूमा | animals |
+| `purple` | बैंगनी | colours |
+| `pyaaz` | प्याज | foods |
+| `python` | अजगर | animals |
+| `rabbit` | खरगोश | animals |
+| `radish` | मूली | foods |
+| `rajat` | रजत | colours |
+| `rajma` | राजमा | foods |
+| `ramen` | रामेन | foods |
+| `rasam` | रसम | foods |
+| `rat` | चूहा | animals |
+| `red` | लाल | colours |
+| `rice` | चावल | foods |
+| `roti` | रोटी | foods |
+| `royal blue` | रॉयल ब्लू | colours |
+| `saanp` | साँप | animals |
+| `saap` | साँप | animals |
+| `sabzi` | सब्ज़ी | foods |
+| `safed` | सफेद | colours |
+| `saffron` | केसरिया | colours |
+| `safid` | सफेद | colours |
+| `samaosa` | समोसा | foods |
+| `samaso` | समोसा | foods |
+| `sambar` | साँभर | foods |
+| `sandwich` | सैंडविच | foods |
+| `santara` | नारंगी | colours, foods |
+| `sapphire` | नीला | colours |
+| `saprrow` | गौरैया | animals |
+| `sar` | सिर | body-parts |
+| `seb` | सेब | foods |
+| `shark` | शार्क | animals |
+| `sheep` | भेड़ | animals |
+| `sher` | शेर | animals |
+| `silver` | चाँदी | colours |
+| `simh` | सिंह | animals |
+| `sir` | सिर | body-parts |
+| `sitaphal` | सीताफल | foods |
+| `sky blue` | आसमानी | colours |
+| `snake` | साँप | animals |
+| `soya bean` | सोयाबीन | foods |
+| `soyabean` | सोयाबीन | foods |
+| `sparrow` | गौरैया | animals |
+| `spinach` | पालक | foods |
+| `suar` | सूअर | animals |
+| `suar (pork)` | सूअर | foods |
+| `swadisht` | DROPPED (noise word) | foods |
+| `swarna` | स्वर्ण | colours |
+| `sweets` | मिठाई | foods |
+| `taang` | टाँग | body-parts |
+| `tamatar` | टमाटर | foods |
+| `tea` | चाय | foods |
+| `teal` | टील | colours |
+| `teekha` | DROPPED (noise word) | foods |
+| `tiffins` | DROPPED (noise word) | foods |
+| `tiger` | बाघ | animals |
+| `tinda` | टिंडा | foods |
+| `toe` | पैर की उँगली | body-parts |
+| `tomato` | टमाटर | foods |
+| `tricep` | ट्राइसेप | body-parts |
+| `turquoise` | फ़िरोज़ी | colours |
+| `ungli` | उँगली | body-parts |
+| `ungliyan` | उँगली | body-parts |
+| `urad` | उड़द | foods |
+| `vada` | वड़ा | foods |
+| `violet` | बैंगनी | colours |
+| `whale` | व्हेल | animals |
+| `what` | DROPPED (noise word) | animals |
+| `wheat` | गेहूँ | foods |
+| `white` | सफेद | colours |
+| `wolf` | भेड़िया | animals |
+| `yellow` | पीला | colours |
+| `zebra` | ज़ेब्रा | animals |
